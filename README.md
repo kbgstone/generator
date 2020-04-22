@@ -1,0 +1,2 @@
+# generator
+kumpulan script generator
